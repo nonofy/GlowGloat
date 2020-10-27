@@ -1,1 +1,0 @@
-# GlowGloat修正パッチ
